@@ -46,31 +46,31 @@ npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 Petty deployed to:
 
 ```shell
-0x769f508d328cEffC634f375965163373B1187942
+0x9E5cAE9818E51ae96635c01d0078cdF874099428
 ```
 
 Gold deployed to:
 
 ```shell
-0xF395d10F4dF87371e7824bA83446599C7530625A
+0x6A18618FF353AE370A46a72Ab1DCc45025184f89
 ```
 
 tokenSale deployed to:
 
 ```shell
-0x8B71ff94bfb4Cb90b36A7C9D0dbEBaf2682E8bF7
+0x19F449EfcEb2CB73D6a1935D53bA832e09C817E3
 ```
 
 Reserve deployed to:
 
 ```shell
-0x381C3E6074C0D50853b762b1ea0dF586571177a5
+0x5ce707250C6836B848A76c754FB65313868FfD31
 ```
 
 Marketplace deployed to:
 
 ```shell
-0x22d59a31d96C7DcbF2901e868B84978e2f7df25e
+0x4025bAC608cA7f2Cfc262Ab6a8355266281b9553
 ```
 
 Gold is payment token? true or false:
@@ -78,12 +78,3 @@ Gold is payment token? true or false:
 ```shell
 true
 ```
-
-# contracts address
-
-Petty deployed to: 0x9E5cAE9818E51ae96635c01d0078cdF874099428
-Gold deployed to: 0x6A18618FF353AE370A46a72Ab1DCc45025184f89
-TokenSale deployed to:0x19F449EfcEb2CB73D6a1935D53bA832e09C817E3
-Reserve deployed to: 0x5ce707250C6836B848A76c754FB65313868FfD31
-Marketplace deployed to: 0x4025bAC608cA7f2Cfc262Ab6a8355266281b9553
-Gold is payment token? true or false: true
